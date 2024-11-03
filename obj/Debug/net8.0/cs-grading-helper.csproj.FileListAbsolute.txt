@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\bin\Debug\net8.0\cs-grading-helper.exe
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\bin\Debug\net8.0\cs-grading-helper.deps.json
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\bin\Debug\net8.0\cs-grading-helper.runtimeconfig.json
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\bin\Debug\net8.0\cs-grading-helper.dll
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\bin\Debug\net8.0\cs-grading-helper.pdb
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.AssemblyInfo.cs
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.dll
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\refint\cs-grading-helper.dll
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.pdb
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\cs-grading-helper.genruntimeconfig.cache
+C:\Users\gavin\Documents\Code\c#\cs-grading-helper\obj\Debug\net8.0\ref\cs-grading-helper.dll
